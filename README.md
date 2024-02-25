@@ -1,4 +1,4 @@
-HI All this was my mini project for my 5th semester.I HAVE KNWLEDGE OF WORKING ON ARDUINO. 
+HI All this was my mini project for my 5th semester.I HAVE KNOWLEDGE OF WORKING ON ARDUINO. 
 This Project “ANTI-SLEEP ALARM FOR DRIVERS” is successfully designed, and
 tested and demo unit is fabricated. The goal of this project is to develop a device that
 can accurately detect sleepy driving and make alarms accordingly, which aims to
